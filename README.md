@@ -2,7 +2,7 @@
  <br>
   <a href="https://github.com/peterhanania"><img src="https://pogy.xyz/thumbnail.png"></a>
   <br>
-  Pogy the Discord Bot [DJS V13]
+  Zero the Discord Bot [DJS V13]
  <br>
 </h1>
 
